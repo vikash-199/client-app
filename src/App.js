@@ -7,6 +7,7 @@ function App() {
       <h1>Create Post</h1>
       <PostCreate />
       <hr />
+      <h1>posts</h1>
       <PostList />
     </div>
   );
